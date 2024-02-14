@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "doplab16", "doplab16.vcxproj", "{F3A40C9A-E377-49BD-B0C2-2E4F319DCAA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3A40C9A-E377-49BD-B0C2-2E4F319DCAA6}.Debug|x64.ActiveCfg = Debug|x64
+		{F3A40C9A-E377-49BD-B0C2-2E4F319DCAA6}.Debug|x64.Build.0 = Debug|x64
+		{F3A40C9A-E377-49BD-B0C2-2E4F319DCAA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{F3A40C9A-E377-49BD-B0C2-2E4F319DCAA6}.Debug|x86.Build.0 = Debug|Win32
+		{F3A40C9A-E377-49BD-B0C2-2E4F319DCAA6}.Release|x64.ActiveCfg = Release|x64
+		{F3A40C9A-E377-49BD-B0C2-2E4F319DCAA6}.Release|x64.Build.0 = Release|x64
+		{F3A40C9A-E377-49BD-B0C2-2E4F319DCAA6}.Release|x86.ActiveCfg = Release|Win32
+		{F3A40C9A-E377-49BD-B0C2-2E4F319DCAA6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {770D3DA4-9314-46B6-B822-FC1743D5D3F8}
+	EndGlobalSection
+EndGlobal
