@@ -1,0 +1,6 @@
+﻿  doptask.cpp
+D:\Лабораторные\ОАИП Белодед\18\dopolnzad\doptask.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Лабораторные\ОАИП Белодед\18\dopolnzad\doptask.cpp(12,11): warning C4101: array: неиспользованная локальная переменная
+D:\Лабораторные\ОАИП Белодед\18\dopolnzad\doptask.cpp(14,11): warning C4101: estr: неиспользованная локальная переменная
+D:\Лабораторные\ОАИП Белодед\18\dopolnzad\doptask.cpp(11,12): warning C4101: lenght: неиспользованная локальная переменная
+  dopolnzad.vcxproj -> D:\Лабораторные\ОАИП Белодед\18\dopolnzad\x64\Debug\dopolnzad.exe
